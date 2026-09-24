@@ -1,0 +1,19 @@
+{
+  "type": "data_source",
+  "id": "9478f699-2a9f-4250-a7cc-ad0322ec1d4b",
+  "name": "Slack",
+  "data_driver_name": "slack",
+  "data_driver_config": {
+    "channel": {
+      "id": "C0C0QTXA1SL",
+      "name": "ishay-q-agent-testing"
+    }
+  },
+  "owner": "agent-5d9d7a26-802b-423d-92a3-eb47b672c6c3",
+  "reflect": "record",
+  "reflect_into": "",
+  "poll_interval_seconds": 61,
+  "window_days": 7,
+  "required_capabilities": [],
+  "connection": ""
+}
