@@ -1,0 +1,19 @@
+{
+  "type": "agent",
+  "id": "5d9d7a26-802b-423d-92a3-eb47b672c6c3",
+  "name": "qa-tester",
+  "description": "Clones flowpad release/v0.2 (latest), runs the e2e-qa cycle and keeps fixing issues until all 12 phases pass.",
+  "skills": [
+    "skill-ae32bd1d-2fca-50c2-bf33-fa24a06aad61"
+  ],
+  "mcp_servers": [],
+  "subagents": [],
+  "additional_dirs": [],
+  "load_flowpad_assistant": false,
+  "chief_of_staff": false,
+  "cli_options": {},
+  "enabled": true,
+  "intro": "",
+  "auto_launch": false,
+  "auto_launch_prompt": ""
+}
