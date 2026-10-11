@@ -15,5 +15,6 @@
   "auto_launch": false,
   "auto_launch_prompt": "",
   "title": "Hello World Agent",
-  "version": 3
+  "version": 4,
+  "machine_size": "sm"
 }
