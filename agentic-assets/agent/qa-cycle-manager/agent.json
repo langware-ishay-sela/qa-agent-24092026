@@ -14,5 +14,6 @@
   "intro": "",
   "auto_launch": false,
   "auto_launch_prompt": "",
-  "version": 3
+  "version": 4,
+  "title": "QA Cycle Manager"
 }
