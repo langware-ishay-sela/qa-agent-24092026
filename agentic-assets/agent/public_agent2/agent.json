@@ -1,0 +1,19 @@
+{
+  "type": "agent",
+  "id": "9ab6ff1b-78da-43f2-9dfc-6181bf17bb12",
+  "name": "public_agent2",
+  "description": "",
+  "skills": [],
+  "mcp_servers": [],
+  "subagents": [],
+  "additional_dirs": [],
+  "load_flowpad_assistant": false,
+  "chief_of_staff": false,
+  "cli_options": {},
+  "enabled": true,
+  "intro": "",
+  "auto_launch": false,
+  "auto_launch_prompt": "",
+  "title": "PublicAgent11",
+  "version": 2
+}
