@@ -1,0 +1,13 @@
+{
+  "type": "data_source",
+  "id": "2da928f6-fc39-4c62-84b5-1476769687f0",
+  "name": "Telegram",
+  "data_driver_name": "telegram",
+  "owner": "agent-5d9d7a26-802b-423d-92a3-eb47b672c6c3",
+  "reflect": "record",
+  "reflect_into": "",
+  "poll_interval_seconds": 60,
+  "window_days": 7,
+  "required_capabilities": [],
+  "connection": ""
+}
