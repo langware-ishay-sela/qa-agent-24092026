@@ -8,13 +8,13 @@
   "subagents": [],
   "additional_dirs": [],
   "load_flowpad_assistant": false,
-  "chief_of_staff": false,
+  "chief_of_staff": true,
   "cli_options": {},
   "enabled": true,
   "intro": "",
   "auto_launch": false,
   "auto_launch_prompt": "",
-  "version": 5,
+  "version": 6,
   "title": "QA Cycle Manager",
   "machine_size": "lg"
 }
