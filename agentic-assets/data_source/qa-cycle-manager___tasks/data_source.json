@@ -1,0 +1,16 @@
+{
+  "type": "data_source",
+  "id": "7222a9d5-672c-4f40-b8b5-0135fc9c067b",
+  "name": "qa-cycle-manager · tasks",
+  "data_driver_name": "task_manager",
+  "data_driver_config": {
+    "principal": "agent:bed8e0b0-59b7-4931-b668-f9ab382c60df"
+  },
+  "owner": "agent-bed8e0b0-59b7-4931-b668-f9ab382c60df",
+  "reflect": "record",
+  "reflect_into": "",
+  "poll_interval_seconds": 300,
+  "window_days": 7,
+  "required_capabilities": [],
+  "connection": ""
+}
