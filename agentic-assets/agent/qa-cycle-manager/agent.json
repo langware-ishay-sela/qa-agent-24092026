@@ -5,7 +5,9 @@
   "description": "",
   "skills": [],
   "mcp_servers": [],
-  "subagents": [],
+  "subagents": [
+    "qa"
+  ],
   "additional_dirs": [],
   "load_flowpad_assistant": false,
   "chief_of_staff": true,
@@ -14,7 +16,7 @@
   "intro": "",
   "auto_launch": false,
   "auto_launch_prompt": "",
-  "version": 6,
+  "version": 7,
   "title": "QA Cycle Manager",
   "machine_size": "lg"
 }
