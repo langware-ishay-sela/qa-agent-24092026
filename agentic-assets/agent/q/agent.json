@@ -1,0 +1,20 @@
+{
+  "type": "agent",
+  "id": "164783f1-3bd6-4f31-941a-e2746f14b7ef",
+  "name": "q",
+  "description": "",
+  "skills": [],
+  "mcp_servers": [],
+  "subagents": [],
+  "additional_dirs": [],
+  "load_flowpad_assistant": false,
+  "chief_of_staff": false,
+  "cli_options": {},
+  "enabled": true,
+  "intro": "",
+  "auto_launch": false,
+  "auto_launch_prompt": "",
+  "machine_size": "sm",
+  "title": "Q",
+  "version": 2
+}
